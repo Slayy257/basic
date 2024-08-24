@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Devs/CPP/basic_hacking/basic/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -Dbasic_EXPORTS -g -std=gnu++17 -o CMakeFiles\\basic.dir\\basic.cpp.obj -c D:\\Devs\\CPP\\basic_hacking\\basic\\basic.cpp",
+  "file": "D:\\Devs\\CPP\\basic_hacking\\basic\\basic.cpp",
+  "output": "CMakeFiles\\basic.dir\\basic.cpp.obj"
+},
+{
+  "directory": "D:/Devs/CPP/basic_hacking/basic/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -Dbasic_EXPORTS -g -std=gnu++17 -o CMakeFiles\\basic.dir\\hack.cpp.obj -c D:\\Devs\\CPP\\basic_hacking\\basic\\hack.cpp",
+  "file": "D:\\Devs\\CPP\\basic_hacking\\basic\\hack.cpp",
+  "output": "CMakeFiles\\basic.dir\\hack.cpp.obj"
+}
+]

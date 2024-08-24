@@ -1,0 +1,3 @@
+D:/Devs/CPP/basic_hacking/basic/build/CMakeFiles/basic.dir
+D:/Devs/CPP/basic_hacking/basic/build/CMakeFiles/edit_cache.dir
+D:/Devs/CPP/basic_hacking/basic/build/CMakeFiles/rebuild_cache.dir
